@@ -1,17 +1,6 @@
 # Blender 4.1.0 MTL File: 'Yarn.blend'
 # www.blender.org
 
-newmtl Yarn_Image_Maps
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd C:/Users/alexa/Desktop/Yarn Diffuse.png
-map_Bump -bm 0.600000 C:/Users/alexa/Desktop/Yarn Normal.png
-
 newmtl Yarn_Procedural
 Ns 62.500000
 Ka 1.000000 1.000000 1.000000
