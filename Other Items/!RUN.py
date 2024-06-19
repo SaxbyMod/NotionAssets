@@ -13,6 +13,7 @@ x2, y2 = 989, 919
 
 # Get a list of PNG files in the current directory
 png_files = [file for file in os.listdir() if file.endswith(".png")]
+jpg_files = [file for file in os.listdir() if file.endswith(".jpg")]
 
 # Process each PNG file
 for png_file in png_files:
@@ -24,6 +25,20 @@ for png_file in png_files:
 
     # Save the cropped image in the "Portraits" folder with the same filename
     output_path = os.path.join(output_folder, png_file)
+    cropped_image.save(output_path)
+
+    print(f"Cropped image saved: {output_path}")
+
+# Process each JPG file
+for jpg_file in jpg_files:
+    # Open the image
+    image = Image.open(jpg_file).convert("RGB")
+
+    # Crop the image to the specified region
+    cropped_image = image.crop((x1, y1, x2, y2))
+
+    # Save the cropped image in the "Portraits" folder with the same filename
+    output_path = os.path.join(output_folder, jpg_file.replace(".jpg", ".png"))
     cropped_image.save(output_path)
 
     print(f"Cropped image saved: {output_path}")
