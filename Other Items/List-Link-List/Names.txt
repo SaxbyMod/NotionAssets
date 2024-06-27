@@ -1,0 +1,417 @@
+49er
+Accelermage
+Adder
+Alarm Bot
+Alhoon
+Alpha
+Altar Of Efficacy
+Altar Of Eternity
+Altar Of Form
+Altar Of Mind
+Altar Of Power
+Altar Of Wrath
+Amalgam
+Amalgamage
+Amethyst Mox
+Amethyst Vessel
+Amoeba
+Amoebot
+Animator
+Animox
+Ant Queen
+Arachne Wizard
+Ascended Slime
+Automaton
+Automatox
+Bag’O’Bones
+Bait Bucket
+Banshee
+Bat
+Beast Mage
+Beaver
+Bee
+Beehive
+Behorber
+Bell Tentacle
+Belle’s Mox
+Belle’s Vessel
+Big Bones
+Bishobot
+Bixhound
+Black Goat
+Bleene’s Mox
+Bleene’s Vessel
+Bloating Pillar
+Blood Bank
+Bloodhound
+Blue Mage
+Bolthound
+Bone Heap
+Bone Lord’s Horn
+Bone Mill
+Bone Tentacle
+Bonehound
+Book Keeper
+Book Of Darkness
+Boulder
+Breude’s Mox
+Breude’s Vessel
+Broken Egg
+Brush Mage
+Brutalist Beast
+Bryce
+Buff Conduit
+Bugzapper Conduit
+Bullfrog
+Burnt Body
+Burrowing Trap
+Caged Wolf
+Carrion Mouth
+Cat
+Celia
+Cerebral Swarm
+Chandrelle
+Chaos Sorcerer
+Child 13
+Chime
+Chronogolem
+Clot
+Cockroach
+Corpse Collector
+Corpse Maggots
+Corrupt Construct
+Coyote
+Cruel Mage
+Cuckoo
+Curve Hopper
+Dalgyal
+Dam
+Dark Lord
+Dark Sage
+Davy Jones
+Dead Hand
+Dealer Mage
+Death Lich
+Detective Mage
+Displacer Beast
+Dizzy Mage
+Double Gunner
+Draugear
+Draugr
+Dredger
+Drow Knight
+Drowned Soul
+Drowsy Mage
+Ectoplasm
+Electric Slime
+Electromancer
+Elk
+Elk Fawn
+Emerald Mox
+Emerald Vessel
+Empty Vessel
+Enchanter
+Energy Bot
+Energy Conduit
+Energy Creep
+Energy Tentacle
+Erratic Scholar
+Exeskelemagbot
+Exeskeleton
+Explode Bot
+Faberge Frog
+Factory Conduit
+Field Mice
+Fishdroid
+Flying Ant
+Force Mage
+Former Noble
+Fortune Teller
+Frank&Stein
+Gamblobot
+Gametuna
+Gargoyle
+Garnet Mox
+Garnet Vessel
+Geck
+Gem Channeler
+Gem Devourer
+Gem Fiend
+Gem Pillar
+Gembound Ripper
+Ghast
+Ghastly Pillar
+Ghost Ship
+Ghoul
+Ghoulish Mage
+Gift Bot
+Gold Nugget
+Golden Pelt
+Goo Mage
+Gornaj’s Mox
+Gornaj’s Vessel
+Gourmage
+Grand Astrologer
+Grave Diglin
+Gravedigger
+Great Kraken
+Great White
+Greed’s Mox
+Green Mage
+Grielo’s Mox
+Grizzly
+Guardian Cell
+Guardian Mage
+Gurple’s Mox
+Hag
+Hand Tentacle
+Hanged Man
+Hawk
+Head Hunter
+Headless Horseman
+Health Conduit
+Hemoflayer
+Hexen
+Hover Mage
+Hrokkall
+Hunter
+Insectodrone
+Inspector
+Iron Maiden
+Jikininki
+Junior Sage
+Kablooie Conjurer
+Kaminski
+Kaycee
+Kind Cell
+Kingdroid
+Kingfisher
+L33PB0T
+Lazarus
+Lazuli Construct
+Leaping Trap
+Leuchloridium
+Librarian
+Lich
+Lil’ Frog
+Lonely Wizard
+Long Elk
+Loud Mage
+Louis
+M3ATBOT
+Mage Knight
+Mage Pupil
+Mage Slayer
+Magickant
+Magiquartet
+Magnus Mox
+Magpie
+Mantis
+Mantis God
+Marrow Cell
+Marvin The Magnificent
+Mass Of Marrow
+Master Belle
+Master Bleene
+Master Breude
+Master Burle
+Master Eder
+Master Gornaj
+Master Greed
+Master Grielo
+Master Gurple
+Master Mispr
+Master Orello
+Master Orlu
+Master Roarage
+Master Sporenaj
+Master Yed
+Master Yurpo
+Maw Mage
+Mc Clain
+Mealworm
+Meat Man
+Melter
+Mimic
+Mind Flayer
+Mirror Mage
+Mirror Magus
+Mirror Tentacle
+Mispr’s Mox
+Mispr’s Vessel
+Mole
+Mole Man
+Monstrous Mage
+Moose Buck
+Mosquito Mage
+Mound Of Flesh
+Mox Mage
+Mox Miner
+Mox Module (BGO)
+Mox Module (RYP)
+Mox Tentacle
+Mrs. Bomb
+Mummy Lord
+Muscle Mage
+Mystery Man
+Nanoarmor Conduit
+Necromancer
+Nills
+Nosferatu
+Null Conduit
+Octopus
+Opossum
+Orange Mage
+Orello’s Mox
+Orlu’s Mox
+Orlu’s Vessel
+Overcharger
+Overclock Conduit
+Pack Mule
+Pack Rat
+Party Magician
+Patiant Zero
+Pharaoh’s Pets
+Plasma Jimmy
+Poltergeist
+Pon
+Porcupine
+Possessed Armor
+Possessed Sage
+Pot Of Blue
+Pot Of Green
+Pot Of Grey
+Pot Of Orange
+Pot Of Purple
+Pot Of Red
+Pot Of Yellow
+Power Pillar
+Practice Mage
+Printer Cell
+Prism Mox
+Privateer
+Pronghorn
+Puppeteer
+Purple Mage
+Quickdraw Bot
+Rabbit
+Rabbit Pelt
+Raccoon
+Rat King
+Rattler
+Raven
+Raven Egg
+Really Cool Dog
+Reanimator
+Red Mage
+Reginald
+Reinforce-Mox
+Revenant
+Ringworm
+River Otter
+River Snapper
+Roarage’s Mox
+Roarage’s Vessel
+Roboboardscale.obj
+Rooktank
+Rooster
+Ruby Golem
+Ruby Mox
+Ruby Vessel
+Ryan
+Salmon
+Sapphire Mox
+Sapphire Vessel
+Sarcophagus
+Scrapdigger
+Sentry Drone
+Shatter Mage
+Shell Mage
+Shieldbot
+Shovel Mage
+Shutterbug
+Skel-E-Latcher
+Skelemagus
+Skelemancer
+Skelemoxus
+Skeleton
+Skeleton Army
+Skunk
+Skybound Sorcerer
+Slinger Mage
+Slinger’s Soul
+Smithing Golem
+Smoke Conjurer
+Sniper Bot
+Sniper Mage
+Soothsayer
+Soul Altar
+Sparrow
+Spear Mage
+Speck
+Spell Slinger
+Spellbound Spider
+Spike Mage
+Spine Wyrm
+Spineripper
+Spirit Orb
+Spirit Spider
+Splinter Cell
+Split Cell
+Spore Conduit
+Spore Drone
+Spore Mage
+Spore Mancer
+Spore Mice
+Sporedigger
+Springknight
+Squidling
+Squirrel
+Squirrel Ball
+Starvation
+Stasis Mage
+Steambot
+Steel Mice
+Stim Mage
+Stinkbug
+Stoat
+Stoat (Talking)
+Stop Sage
+Strange Frog
+Stump
+Stunted Wolf
+Submage
+Swapbot
+Tadpole
+Telekinetic
+The Bloated
+The Smoke
+The Walkers
+Thick Droid
+Ticked Mage
+Tomb Robber
+Tombstone
+Tome Sage
+Topaz Mox
+Topaz Vessel
+Tough Cell
+Turkey Vulture
+Undead Cat
+Unlucky Corpse
+Urayuli
+Warren
+Weasel
+Wechuge
+Wild Bull
+Will The Wisp
+Wizard Lizard
+Wolf
+Wolf Cub
+Wolf Pelt
+Wolverine
+Worker Ant
+Worm Mage
+Yed’s Mox
+Yellow Mage
+Yurpo’s Mox
+Zombie
