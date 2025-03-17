@@ -9,7 +9,7 @@ os.makedirs(output_folder, exist_ok=True)
 
 # Define the region coordinates
 x1, y1 = 130, 270
-x2, y2 = 989, 919
+x2, y2 = 990, 920
 
 # Get a list of PNG files in the current directory
 png_files = [file for file in os.listdir() if file.endswith(".png")]
